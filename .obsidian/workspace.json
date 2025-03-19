@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/2610.转换二维数组.md",
+                "file": "python3/Counter().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2610.转换二维数组"
+              "title": "Counter()"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "2610.转换二维数组"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,12 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7096c9c8bbb15b9",
+  "active": "b105ba78f45e87ae",
   "lastOpenFiles": [
-    "leetcode/2610.转换二维数组.md",
     "python3/Counter().md",
-    "python3",
+    "leetcode/2610.转换二维数组.md",
     "leetcode/2614.对角线上的质数.md",
+    "python3",
     "未命名.md",
     "leetcode/1963.使字符串平衡的最小交换次数.md",
     "leetcode"
