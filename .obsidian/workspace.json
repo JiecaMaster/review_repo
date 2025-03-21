@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/2612.最少翻转操作数.md",
+                "file": "leetcode/2680.最大或值.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2612.最少翻转操作数"
+              "title": "2680.最大或值"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,10 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "199145bc1eea4014",
+  "active": "8715ca0906c08f82",
   "lastOpenFiles": [
-    "python3/SortedContainers库.md",
     "leetcode/2612.最少翻转操作数.md",
+    "leetcode/2680.最大或值.md",
+    "python3/SortedContainers库.md",
     "leetcode/2610.转换二维数组.md",
     "python3/Collections库.md",
     "python3/Counter().md",
