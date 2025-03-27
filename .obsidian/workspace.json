@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cc64a0ae1c282b8c",
+        "id": "898a6ffa553d4046",
         "type": "tabs",
         "children": [
           {
-            "id": "8a16b6600499c3e1",
+            "id": "32e0404b1d0c9925",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/2612.最少翻转操作数.md",
+                "file": "leetcode/2829.k-avoiding数组的最小和.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2612.最少翻转操作数"
-            }
-          },
-          {
-            "id": "8e020744bae646fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python3/Counter().md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Counter()"
-            }
-          },
-          {
-            "id": "b4d364ed4d1d13e8",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://blog.csdn.net/huugua/article/details/134655582?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-134655582-blog-125630316.235^v43^pc_blog_bottom_relevance_base7&spm=1001.2101.3001.4242.1&utm_relevant_index=2",
-                "title": "sortedcontainers库 常见的方法和功能-CSDN博客",
-                "mode": "reader"
-              },
-              "icon": "globe-2",
-              "title": "sortedcontainers库 常见的方法和功能-CSDN博客"
-            }
-          },
-          {
-            "id": "199145bc1eea4014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "leetcode/2612.最少翻转操作数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2612.最少翻转操作数"
-            }
-          },
-          {
-            "id": "8715ca0906c08f82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "leetcode/2711.对角线上不同值的数量差.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2711.对角线上不同值的数量差"
+              "title": "2829.k-avoiding数组的最小和"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,18 +180,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8715ca0906c08f82",
+  "active": "32e0404b1d0c9925",
   "lastOpenFiles": [
+    "leetcode/2612.最少翻转操作数.md",
+    "python3/Counter().md",
+    "leetcode/2711.对角线上不同值的数量差.md",
     "leetcode/2255.统计是给定字符串前缀的字符串数目.md",
     "leetcode/2116.判断一个括号字符串是否有效.md",
     "leetcode/1963.使字符串平衡的最小交换次数.md",
     "leetcode/2643.一最多的行.md",
     "leetcode/2680.最大或值.md",
-    "leetcode/2612.最少翻转操作数.md",
     "python3/SortedContainers库.md",
     "leetcode/2610.转换二维数组.md",
     "python3/Collections库.md",
-    "python3/Counter().md",
     "数据结构/平衡二叉树.md",
     "数据结构/并查集.md",
     "数据结构/未命名.md",
