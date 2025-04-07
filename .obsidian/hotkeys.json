@@ -24,5 +24,13 @@
       ],
       "key": "="
     }
+  ],
+  "obsidian-git:edit-gitignore": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
   ]
 }
