@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "1863.找出所有子集异或总和再求和"
             }
+          },
+          {
+            "id": "2eb25c477ec8ad68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode/368.最大整除子集.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "368.最大整除子集"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -239,8 +253,9 @@
   },
   "active": "4a04a8850d463c03",
   "lastOpenFiles": [
-    "leetcode/1123.最深叶节点的最近公共祖先.md",
     "leetcode/1863.找出所有子集异或总和再求和.md",
+    "leetcode/368.最大整除子集.md",
+    "leetcode/1123.最深叶节点的最近公共祖先.md",
     "leetcode/2873.有序三元组中的最大值（2874）.md",
     "leetcode/2829.k-avoiding数组的最小和.md",
     "python3/Collections库.md",
@@ -264,7 +279,6 @@
     "leetcode/2610.转换二维数组.md",
     "leetcode/2716. 最小化字符串长度.md",
     "leetcode/2711.对角线上不同值的数量差.md",
-    "leetcode/2680.最大或值.md",
     "数据结构",
     "python3",
     "leetcode"
