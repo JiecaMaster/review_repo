@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/2873.有序三元组中的最大值1.md",
+                "file": "leetcode/2873.有序三元组中的最大值（2874）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2873.有序三元组中的最大值1"
+              "title": "2873.有序三元组中的最大值（2874）"
             }
           },
           {
@@ -88,7 +88,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32e0404b1d0c9925",
+  "active": "4ff33c9bac61813f",
   "lastOpenFiles": [
     "leetcode/2109. 向字符串添加空格.md",
-    "leetcode/2873.有序三元组中的最大值1.md",
+    "leetcode/2873.有序三元组中的最大值（2874）.md",
     "未命名",
     "python3/pairwise().md",
     "leetcode/2278. 字母在字符串中百分比.md",
