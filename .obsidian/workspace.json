@@ -176,8 +176,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af1a6ebc84c0550a",
+  "active": "2893d9846436c8cd",
   "lastOpenFiles": [
+    "leetcode/368.最大整除子集.md",
+    "leetcode/2873.有序三元组中的最大值（2874）.md",
+    "leetcode/1863.找出所有子集异或总和再求和.md",
+    "conflict-files-obsidian-git.md",
+    "leetcode/1123.最深叶节点的最近公共祖先.md",
     "leetcode/416.分割等和子集.md",
     "leetcode/2140.解决智力问题.md",
     "2140.解决智力问题.md",
@@ -187,11 +192,9 @@
     "python3/Collections库.md",
     "数据结构/平衡二叉树.md",
     "数据结构/并查集.md",
-    "leetcode/2873.有序三元组中的最大值（2874）.md",
     "leetcode/2116.判断一个括号字符串是否有效.md",
     "leetcode/2109. 向字符串添加空格.md",
     "leetcode/1963.使字符串平衡的最小交换次数.md",
-    "leetcode/2829.k-avoiding数组的最小和.md",
-    "conflict-files-obsidian-git.md"
+    "leetcode/2829.k-avoiding数组的最小和.md"
   ]
 }
