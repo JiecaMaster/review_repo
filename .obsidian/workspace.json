@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/416.分割等和子集.md",
+                "file": "leetcode/2873.有序三元组中的最大值（2874）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "416.分割等和子集"
+              "title": "2873.有序三元组中的最大值（2874）"
             }
           }
         ]
@@ -176,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2893d9846436c8cd",
+  "active": "af1a6ebc84c0550a",
   "lastOpenFiles": [
+    "leetcode/416.分割等和子集.md",
     "leetcode/2140.解决智力问题.md",
     "2140.解决智力问题.md",
     "python3/SortedContainers库.md",
@@ -190,7 +191,6 @@
     "leetcode/2116.判断一个括号字符串是否有效.md",
     "leetcode/2109. 向字符串添加空格.md",
     "leetcode/1963.使字符串平衡的最小交换次数.md",
-    "leetcode/416.分割等和子集.md",
     "leetcode/2829.k-avoiding数组的最小和.md",
     "conflict-files-obsidian-git.md"
   ]
