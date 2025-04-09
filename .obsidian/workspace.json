@@ -104,9 +104,65 @@
               "icon": "lucide-file",
               "title": "3375.使数组元素全部为k的最小操作次数"
             }
+          },
+          {
+            "id": "d824dcdd937f3766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode/1.两数之和.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.两数之和"
+            }
+          },
+          {
+            "id": "71dee0d2efa89ba0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.bing.com/search?q=%E5%93%88%E5%B8%8C%E8%A1%A8",
+                "title": "哈希表 - 搜索",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "哈希表 - 搜索"
+            }
+          },
+          {
+            "id": "27291f0e58c1eb51",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://blog.csdn.net/u011109881/article/details/80379505",
+                "title": "数据结构 Hash表（哈希表）-CSDN博客",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "数据结构 Hash表（哈希表）-CSDN博客"
+            }
+          },
+          {
+            "id": "1b09afc655c1442f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/Hash表（哈希表）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hash表（哈希表）"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -265,11 +321,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a04a8850d463c03",
+  "active": "1b09afc655c1442f",
   "lastOpenFiles": [
+    "数据结构/Hash表（哈希表）.md",
+    "数据结构/并查集.md",
+    "leetcode/1.两数之和.md",
+    "leetcode/3375.使数组元素全部为k的最小操作次数.md",
     "leetcode/3396. 使数组元素互不相同所需的最少操作次数.md",
     "leetcode/416.分割等和子集.md",
-    "leetcode/3375.使数组元素全部为k的最小操作次数.md",
     "未命名",
     "leetcode/368.最大整除子集.md",
     "leetcode/1863.找出所有子集异或总和再求和.md",
@@ -287,13 +346,10 @@
     "python3/Counter().md",
     "python3/test.md",
     "【算法与数据结构】—— 并查集-CSDN博客.md",
-    "数据结构/并查集.md",
     "数据结构/平衡二叉树.md",
     "leetcode/2612.最少翻转操作数.md",
     "leetcode/2278. 字母在字符串中百分比.md",
     "leetcode/2116.判断一个括号字符串是否有效.md",
-    "leetcode/2109. 向字符串添加空格.md",
-    "leetcode/2610.转换二维数组.md",
     "数据结构",
     "python3",
     "leetcode"
