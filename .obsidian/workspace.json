@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3375.使数组元素全部为k的最小操作次数.md",
+                "file": "leetcode/3375.使数组元素全部为k的最小操作次数.md",
                 "mode": "preview",
                 "source": false
               },
@@ -265,11 +265,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49c350b2e36b2a01",
+  "active": "4a04a8850d463c03",
   "lastOpenFiles": [
     "leetcode/3396. 使数组元素互不相同所需的最少操作次数.md",
     "leetcode/416.分割等和子集.md",
-    "3375.使数组元素全部为k的最小操作次数.md",
+    "leetcode/3375.使数组元素全部为k的最小操作次数.md",
     "未命名",
     "leetcode/368.最大整除子集.md",
     "leetcode/1863.找出所有子集异或总和再求和.md",
