@@ -1,42 +1,14 @@
 {
   "main": {
-    "id": "fa4979c8b3d2ac0d",
+    "id": "1f6d8e9e08738de3",
     "type": "split",
     "children": [
       {
-        "id": "898a6ffa553d4046",
+        "id": "8e55a4eebf80ea09",
         "type": "tabs",
         "children": [
           {
-            "id": "32e0404b1d0c9925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据结构/并查集.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "并查集"
-            }
-          },
-          {
-            "id": "15406d46a7270f42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "leetcode/2643.一最多的行.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2643.一最多的行"
-            }
-          },
-          {
-            "id": "3299b32c0720efe6",
+            "id": "af1a6ebc84c0550a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,22 +63,21 @@
               "title": "416.分割等和子集"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "463d90346d8958e7",
+    "id": "13e7aa8f1885b016",
     "type": "split",
     "children": [
       {
-        "id": "3d937e63e7dd5580",
+        "id": "b436ccbd4c51edce",
         "type": "tabs",
         "children": [
           {
-            "id": "4a04a8850d463c03",
+            "id": "2f5c6cd8a98ee05c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -119,7 +90,7 @@
             }
           },
           {
-            "id": "4ff33c9bac61813f",
+            "id": "40dd42883b4866ba",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -136,7 +107,7 @@
             }
           },
           {
-            "id": "fd334cd83818b407",
+            "id": "0fe374e244d829d2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -152,20 +123,19 @@
     "width": 300
   },
   "right": {
-    "id": "2b769b551143e917",
+    "id": "13f5cc8fa124a46e",
     "type": "split",
     "children": [
       {
-        "id": "5f0d50e8455e4fdb",
+        "id": "05f9783bb52500db",
         "type": "tabs",
         "children": [
           {
-            "id": "cd0a79e35e77d8ba",
+            "id": "b9c608825fc80883",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/test1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,25 +145,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "test1 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "eeca39cf84abbe3a",
+            "id": "fad9d03e03399514",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/test1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "test1 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "95ca58fc6c640baf",
+            "id": "82f8cffc27826d11",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -208,28 +177,27 @@
             }
           },
           {
-            "id": "e45d7ac94894e1c8",
+            "id": "64c0db4609364924",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/test1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test1 的大纲"
+              "title": "大纲"
             }
           },
           {
-            "id": "a71b137186a606f5",
+            "id": "2893d9846436c8cd",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -237,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,36 +218,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2eb25c477ec8ad68",
+  "active": "2893d9846436c8cd",
   "lastOpenFiles": [
     "leetcode/368.最大整除子集.md",
-    "leetcode/1863.找出所有子集异或总和再求和.md",
-    "leetcode/1123.最深叶节点的最近公共祖先.md",
     "leetcode/2873.有序三元组中的最大值（2874）.md",
-    "leetcode/2829.k-avoiding数组的最小和.md",
-    "python3/Collections库.md",
-    "leetcode/2140.解决智力问题.md",
+    "leetcode/1863.找出所有子集异或总和再求和.md",
+    "conflict-files-obsidian-git.md",
+    "leetcode/1123.最深叶节点的最近公共祖先.md",
     "leetcode/416.分割等和子集.md",
-    "leetcode/2255.统计是给定字符串前缀的字符串数目.md",
-    "leetcode/2643.一最多的行.md",
-    "3, 2], [4, 3], [4, 4], [2, 5.md",
-    "leetcode/1963.使字符串平衡的最小交换次数.md",
+    "leetcode/2140.解决智力问题.md",
+    "2140.解决智力问题.md",
     "python3/SortedContainers库.md",
     "python3/pairwise().md",
     "python3/Counter().md",
-    "python3/test.md",
-    "【算法与数据结构】—— 并查集-CSDN博客.md",
-    "数据结构/并查集.md",
+    "python3/Collections库.md",
     "数据结构/平衡二叉树.md",
-    "leetcode/2612.最少翻转操作数.md",
-    "leetcode/2278. 字母在字符串中百分比.md",
+    "数据结构/并查集.md",
     "leetcode/2116.判断一个括号字符串是否有效.md",
     "leetcode/2109. 向字符串添加空格.md",
-    "leetcode/2610.转换二维数组.md",
-    "leetcode/2716. 最小化字符串长度.md",
-    "leetcode/2711.对角线上不同值的数量差.md",
-    "数据结构",
-    "python3",
-    "leetcode"
+    "leetcode/1963.使字符串平衡的最小交换次数.md",
+    "leetcode/2829.k-avoiding数组的最小和.md"
   ]
 }
