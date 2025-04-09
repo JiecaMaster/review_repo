@@ -267,6 +267,7 @@
   },
   "active": "49c350b2e36b2a01",
   "lastOpenFiles": [
+    "leetcode/3396. 使数组元素互不相同所需的最少操作次数.md",
     "leetcode/416.分割等和子集.md",
     "3375.使数组元素全部为k的最小操作次数.md",
     "未命名",
@@ -293,7 +294,6 @@
     "leetcode/2116.判断一个括号字符串是否有效.md",
     "leetcode/2109. 向字符串添加空格.md",
     "leetcode/2610.转换二维数组.md",
-    "leetcode/2716. 最小化字符串长度.md",
     "数据结构",
     "python3",
     "leetcode"
